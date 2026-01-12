@@ -1,0 +1,5 @@
+{
+  "name": "Student Data Collector",
+  "description": "An elegant application to collect student information (Name, Class, Birthday) and visualize data, integrated with Google Gemini for intelligent insights.",
+  "requestFramePermissions": []
+}
